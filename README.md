@@ -1,4 +1,4 @@
-spring-jwt
+```spring-jwt
 │
 ├── .idea/                  # IntelliJ IDEA config (ignored in Git)
 ├── .mvn/                   # Maven wrapper files
@@ -36,7 +36,7 @@ spring-jwt
 ├── target/                 # Build output (ignored in Git)
 ├── .gitignore
 └── pom.xml
-
+```
 
 output
 POST http://localhost:8080/auth/register
