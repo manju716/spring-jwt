@@ -40,6 +40,7 @@ spring-jwt
 └── pom.xml
 ```
 
+```
 output
 POST http://localhost:8080/auth/register
 POST http://localhost:8080/auth/login
