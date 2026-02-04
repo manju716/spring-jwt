@@ -2,8 +2,8 @@
 ```
 spring-jwt
 │
-├── .idea/                  # IntelliJ IDEA config (ignored in Git)
-├── .mvn/                   # Maven wrapper files
+├── .idea/                  
+├── .mvn/                   
 │
 ├── src
 │   ├── main
@@ -35,7 +35,7 @@ spring-jwt
 │   └── test
 │       └── java
 │
-├── target/                 # Build output (ignored in Git)
+├── target/                 
 ├── .gitignore
 └── pom.xml
 ```
