@@ -1,4 +1,6 @@
-```spring-jwt
+
+```
+spring-jwt
 │
 ├── .idea/                  # IntelliJ IDEA config (ignored in Git)
 ├── .mvn/                   # Maven wrapper files
@@ -44,4 +46,4 @@ POST http://localhost:8080/auth/login
 eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJtYW5qdWxhIiwiaWF0IjoxNzAwMDAwMDAwLCJleHAiOjE3MDAwMDM2MDB9...(token)
 GET http://localhost:8080/test/hello
 output
-
+```
